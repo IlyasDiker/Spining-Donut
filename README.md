@@ -1,19 +1,6 @@
 # Spining-Donut
 A simple spinning Donut using MATH
 
-<div class="post p2 p-responsive wrap" role="main">
-      <div class="measure">
-        <div class="post-header mb2">
-  <h1>Donut math: how donut.c works</h1>
-  <span class="post-meta">Jul 20, 2011</span><br>
-  
-</div>
-
-<article class="post-content">
-  <p>There has been a sudden resurgence of interest in my <a href="/2006/09/15/obfuscated-c-donut.html">“donut” code from 2006</a>, and I’ve
-had a couple requests to explain this one.  It’s been five years now, so it’s
-not exactly fresh in my memory, so I will reconstruct it from scratch, in great
-detail, and hopefully get approximately the same result.</p>
 
 <p>This is the code:</p>
 <pre style="font-size: 10pt;">             k;double sin()
